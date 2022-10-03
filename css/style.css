@@ -1,0 +1,44 @@
+/* All */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Header */
+header{
+    height: 480px;
+    background-color: red;
+}
+
+    /* Nav properties */
+    .navigation{
+        height: 80px;
+        background-color: aqua;
+    }
+
+    /* Intro properties */
+    .intro{
+        height: 400px;
+        background-color: blue;
+    }
+
+    /* Main */
+
+.showcase{
+    width: 100%;
+    display: flex;
+}
+    .img{
+        width: 50%;
+        height: 500px;
+        background-color: yellow;
+    }
+
+    .txt{
+        width: 50%;
+        height: 500px;
+        background-color: green;
+
+    }
