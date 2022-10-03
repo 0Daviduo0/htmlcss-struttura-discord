@@ -24,8 +24,8 @@ header{
         background-color: blue;
     }
 
-    /* Main */
 
+/* Main */
 .showcase{
     width: 100%;
     display: flex;
@@ -49,13 +49,13 @@ header{
 
     .img2{
         width: 100%;
-        height: 100px;
+        height: 200px;
         background-color: grey;
     }
 
     .txt2{
         width: 100%;
-        height: 500px;
+        height: 700px;
         background-color: green;
 
     }
@@ -65,3 +65,32 @@ header{
         height: 200px;
         background-color: red;
     }
+
+    /* Footer */
+footer{
+    background-color: grey;
+}
+
+.links{
+    width: 100%;
+    display: flex;
+}
+
+    .lang-social{
+        width: 30%;
+        height: 280px;
+        background-color: orange;
+    }
+
+    .linkest{
+        width: 17.5%;
+        height: 280px;
+        background-color: bisque;
+        border: 1px solid #000;
+    }
+
+.downlogo{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
