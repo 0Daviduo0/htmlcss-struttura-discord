@@ -42,3 +42,20 @@ header{
         background-color: green;
 
     }
+    
+    #big-img{
+       flex-direction: column; 
+    }
+
+    .img2{
+        width: 100%;
+        height: 100px;
+        background-color: grey;
+    }
+
+    .txt2{
+        width: 100%;
+        height: 500px;
+        background-color: green;
+
+    }
