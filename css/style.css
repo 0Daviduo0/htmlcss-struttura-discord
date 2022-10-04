@@ -17,7 +17,7 @@ header{
         height: 80px;
         background-color: aqua;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
         
     }
@@ -112,7 +112,7 @@ header{
 
         #text2{
             height: 180px;
-            width: 80%;
+            width: 50%;
             background-color: aquamarine;
             border: #000 solid 1px;
         }
@@ -129,7 +129,7 @@ header{
 
         #image2{
             height: 500px;
-            width: 90%;
+            width: 50%;
             background-color: aquamarine;
             border: #000 solid 1px;
         }
@@ -145,7 +145,7 @@ header{
 
         #download{
             height: 150px;
-            width: 60%;
+            width: 50%;
             background-color: aquamarine;
             border: #000 solid 1px;
         }
