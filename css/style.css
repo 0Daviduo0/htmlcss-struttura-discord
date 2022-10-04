@@ -16,7 +16,32 @@ header{
     .navigation{
         height: 80px;
         background-color: aqua;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
     }
+
+        .logo{
+            height: 40px;
+            width: 10%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
+
+        .linkup{
+            height: 40px;
+            width: 50%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
+
+        .login{
+            height: 40px;
+            width: 10%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
 
     /* Intro properties */
     .intro{
