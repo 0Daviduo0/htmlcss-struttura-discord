@@ -68,15 +68,35 @@ header{
         width: 50%;
         height: 500px;
         background-color: yellow;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
+        .image{
+            height: 300px;
+            width: 60%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
 
     .txt{
         width: 50%;
         height: 500px;
         background-color: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
     }
     
+        .text{
+            height: 300px;
+            width: 60%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
+
     #big-img{
        flex-direction: column; 
     }
