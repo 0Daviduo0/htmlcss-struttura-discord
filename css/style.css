@@ -47,8 +47,17 @@ header{
     .intro{
         height: 400px;
         background-color: blue;
+        display:flex;
+        justify-content: center;
+        align-items: center;
     }
 
+        .introduction{
+            height: 300px;
+            width: 60%;
+            background-color: aquamarine;
+            border: #000 solid 1px;
+        }
 
 /* Main */
 .showcase{
